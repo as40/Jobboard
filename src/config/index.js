@@ -1,0 +1,1 @@
+export const apiEndPoint = "https://64d8a5e35f9bf5b879ce6adc.mockapi.io/";
